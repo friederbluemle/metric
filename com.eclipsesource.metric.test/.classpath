@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/com.eclipsesource.metric"/>
+	<classpathentry kind="lib" path="libs/android-16.jar"/>
+	<classpathentry kind="lib" path="libs/mockito-all-1.9.5-rc1-sources.jar"/>
+	<classpathentry kind="lib" path="libs/mockito-all-1.9.5-rc1.jar"/>
+	<classpathentry kind="lib" path="libs/robolectric-1.1-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="libs/robolectric-1.1-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
